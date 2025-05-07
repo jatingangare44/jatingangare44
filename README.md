@@ -1,6 +1,11 @@
 # 💫 About Me:
 👨‍💻 Aspiring Full Stack Java Developer<br>Currently focused on Full Stack Java Development (Spring Boot, JSP, MySQL)<br>Building practical solutions with clean, efficient code<br>Always learning, always building 🚀<br>From Firebase & IoT to Full Stack Java — it’s all about growth! 🌱
 
+🔗 **Check out my portfolio:**  
+🌐 [jatin-gangare.netlify.app](https://jatin-gangare.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://jatin-gangare.netlify.app/)
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jatin_gangare?igsh=MTUydWJ0ZWhkOTE0cw%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/jatin-gangare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatingangare44@gmail.com) 
